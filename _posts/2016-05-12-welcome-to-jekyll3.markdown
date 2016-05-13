@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[置顶] 五月火热招生中"
+title:  "五月火热招生中"
 date:   2016-05-12 21:52:30 +0800
 categories: jekyll update
 ---
